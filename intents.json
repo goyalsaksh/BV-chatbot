@@ -15,8 +15,8 @@
   },
 
    {"tag": "courseDuration",
-  "patterns": ["how long will be BIT or BBA course", "how long will it take to complete BIT or BBA course"],
-  "responses": ["Our college offers 3 year long BIT course and 3 and half year long BBA course."]
+  "patterns": ["how long will be BSC or BBA course", "how long will it take to complete BSC or BBA course"],
+  "responses": ["Our college offers 3 year long BSc and 3 and BBA course."]
   },
 
    {"tag": "Location",
